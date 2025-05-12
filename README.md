@@ -2,7 +2,7 @@
 
 ## About Me
 - 📚 I'm a 1st grade computer engineering student.
-- 🌱 I'm actively working on UI design as part of a dynamic 5 person Teknofest team.
+- 🌱 I'm actively working on full-stack development and UI/UX design as part of a dynamic 5-person Teknofest team.
 - 🤝 I'm passionate about exploring all areas of software development.
 
 ## Skills & Tools I Use
