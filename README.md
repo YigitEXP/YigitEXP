@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi everyone, I'm Yiğit! 👋
 
-<!--
-**YigitEXP/YigitEXP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 📚 I'm a 1st grade computer engineering student.
+- 🌱 I'm actively working on UI design as part of a dynamic 5 person Teknofest team.
+- 🤝 I'm passionate about exploring all areas of software development.
 
-Here are some ideas to get you started:
+## Skills & Tools I Use
+- 🖥️ **Programming Languages**: Python, C#, Dart
+- 🌐 **Web Technologies**: HTML, CSS, JavaScript
+- 📱 **Mobile Development**: Flutter
+- 🗄️ **SQL Tools**: SQL Server, SQLAlchemy
+- 📊 **Data Science & AI**: NumPy, Pandas, Matplotlib
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect
+- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yiğit-can-aktürk-6b48262b6/)!
