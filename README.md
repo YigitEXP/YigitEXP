@@ -7,7 +7,7 @@
 
 ## Skills & Tools I Use
 - 🖥️ **Programming Languages**: Python, C#, Dart
-- 🌐 **Web Technologies**: HTML, CSS, JavaScript
+- 🌐 **Web Technologies**: HTML, CSS, Bootstrap, JavaScript
 - 📱 **Mobile Development**: Flutter
 - 🗄️ **SQL Tools**: SQL Server, SQLAlchemy
 - 📊 **Data Science & AI**: NumPy, Pandas, Matplotlib
