@@ -9,7 +9,7 @@
 - 🖥️ **Programming Languages**: Python, C#, Dart
 - 🌐 **Web Technologies**: HTML, CSS, Bootstrap, JavaScript
 - 📱 **Mobile Development**: Flutter
-- 🗄️ **SQL Tools**: SQL Server, SQLAlchemy
+- 🗄️ **SQL Tools**: SQL Server, SQLAlchemy, SQLite
 - 📊 **Data Science & AI**: NumPy, Pandas, Matplotlib
 
 ## Let's Connect
