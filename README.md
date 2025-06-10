@@ -3,8 +3,8 @@
 ## About Me
 - 📚 I'm a Computer Engineering student with a strong focus on practical, hands-on learning.
 - 🤝 I enjoy exploring different domains of software development and constantly expanding my skill set.
-- 🚀 Special interest in Cybersecurity and Artificial Intelligence (AI)
-- ⚡ **Teknofest 2025 Experience**  
+- ⚡ Special interest in Cybersecurity and Artificial Intelligence (AI)
+- 🚀 **Teknofest 2025 Experience**  
         Competed as part of a **5-person team** across multiple UAV/UGV categories:  
         - **Combat UAV** (Unmanned Aerial Vehicle)  
         - **Air Defense Systems**  
