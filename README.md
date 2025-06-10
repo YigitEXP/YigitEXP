@@ -7,11 +7,13 @@
 - 🚀 My special interests: Cyber Security, AI, ML & DL
 
 ## Skills & Tools I Use
-- 🖥️ **Programming Languages**: Python, C#, Dart
-- 🌐 **Web Technologies**: HTML, CSS, Bootstrap, JavaScript
-- 📱 **Mobile Development**: Flutter
-- 🗄️ **SQL Tools**: SQL Server, SQLAlchemy, SQLite
-- 📊 **Data Science & AI**: NumPy, Pandas, Matplotlib
+💻 Programming Languages: Python, C#, Dart
+🌐 Web Development: HTML, CSS, Bootstrap, JavaScript
+⚙️ Backend & Automation: aiohttp, asyncio, Selenium, BeautifulSoup
+📱 Mobile Development: Flutter
+🗄️ Databases & ORMs: SQL Server, SQLite, SQLAlchemy
+📊 Data & AI: NumPy, Pandas, Matplotlib
+🧵 Concurrency & Async: threading, asyncio, aiohttp
 
 ## Let's Connect
 - Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yiğit-can-aktürk-6b48262b6/)!
