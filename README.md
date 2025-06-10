@@ -1,10 +1,10 @@
 # Hi everyone, I'm Yiğit! 👋
 
 ## About Me
-- 📚 I'm a 1st grade computer engineering student.
-- 🌱 I'm actively working on full-stack development, UI/UX design and mobile programming as part of a dynamic 5-person Teknofest team.
-- 🤝 I'm passionate about exploring all areas of software development.
-- 🚀 My special interests: Cyber Security, AI, ML & DL
+📚 I'm a Computer Engineering student with a strong focus on practical, hands-on learning.
+🌱 Previously part of a dynamic 5-person Teknofest team; currently working independently on full-stack development, UI/UX design, and mobile programming.
+🤝 I enjoy exploring different domains of software development and constantly expanding my skill set.
+🚀 Special interest in Cybersecurity and Artificial Intelligence (AI)
 
 ## Skills & Tools I Use
 💻 Programming Languages: Python, C#, Dart
