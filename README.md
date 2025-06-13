@@ -18,8 +18,8 @@
 - 🌐 Web Development: HTML, CSS, Bootstrap, JavaScript 
 - ⚙️ Backend & Automation: aiohttp, asyncio, Selenium, BeautifulSoup 
 - 📱 Mobile Development: Flutter 
-- 🗄️ Databases & ORMs: SQL Server, SQLite, SQLAlchemy 
-- 📊 Data & AI: NumPy, Pandas, Matplotlib 
+- 🗄️ Databases & ORMs: SQL Server, SQLite
+- 📊 Data & AI: NumPy, Pandas, Matplotlib, Seaborn
 - 🧵 Concurrency & Async: threading, asyncio, aiohttp 
 
 ## Let's Connect
