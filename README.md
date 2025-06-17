@@ -16,7 +16,7 @@
 ## Skills & Tools I Use
 - 💻 Programming Languages: Python, C#, Dart 
 - 🌐 Web Development: HTML, CSS, Bootstrap, JavaScript 
-- ⚙️ Backend & Automation: aiohttp, asyncio, Selenium, BeautifulSoup 
+- ⚙️ Backend & Automation: Selenium, BeautifulSoup 
 - 📱 Mobile Development: Flutter 
 - 🗄️ Databases & ORMs: SQL Server, SQLite
 - 📊 Data & AI: NumPy, Pandas, Matplotlib, Seaborn
