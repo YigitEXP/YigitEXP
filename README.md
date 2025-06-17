@@ -11,7 +11,7 @@
         - **International UAV Competition**  
         - **UGV** (Unmanned Ground Vehicle)  
         - **USV** (Unmanned Surface Vehicle)  
-  **Role**: Led full-stack development for software subsystems.
+  **Role**: I led UI development and worked on both frontend and parts of the backend. I integrated external tools into the system, including automation for Mission Planner and secondary display applications. I also contributed to mobile-side programming and supported cross-platform compatibility.
 
 ## Skills & Tools I Use
 - 💻 Programming Languages: Python, C#, Dart 
