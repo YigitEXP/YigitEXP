@@ -16,9 +16,9 @@
 ## 🔧 Skills & Tools I Use
 
 •**💻 Programming Languages:** Python, C#, Dart  
-•**🧠 ML & DL:** Scikit-Learn
-•**📊 Data Wrangling & Visualization** NumPy, Pandas, Matplotlib, Seaborn
-•**🧵 Concurrency & Async:** threading, asyncio, aiohttp
+•**🧠 ML & DL:** Scikit-Learn  
+•**📊 Data Wrangling & Visualization** NumPy, Pandas, Matplotlib, Seaborn  
+•**🧵 Concurrency & Async:** threading, asyncio, aiohttp  
 •**⚙️ Backend & Automation:** Selenium, BeautifulSoup  
 •**🗄️ Databases & ORMs:** SQL Server, SQLite  
 •**📱 Mobile Development:** Flutter  
