@@ -14,13 +14,27 @@
   **Role**: I led UI development and worked on both frontend and parts of the backend. I integrated external tools into the system. I also contributed to mobile-side programming and supported cross-platform compatibility.
 
 ## Skills & Tools I Use
-- 💻 Programming Languages: Python, C#, Dart 
-- 🌐 Web Development: HTML, CSS, Bootstrap, JavaScript 
-- ⚙️ Backend & Automation: Selenium, BeautifulSoup 
-- 📱 Mobile Development: Flutter 
-- 🗄️ Databases & ORMs: SQL Server, SQLite
-- 📊 Data & AI: NumPy, Pandas, Matplotlib, Seaborn
-- 🧵 Concurrency & Async: threading, asyncio, aiohttp 
+💻 Programming Languages
+-Python, C#, Dart 
+
+🌐 Web Development 
+HTML, CSS, Bootstrap, JavaScript 
+
+⚙️ Backend & Automation
+-Selenium, BeautifulSoup 
+
+ 📱 Mobile Development
+ -Flutter 
+
+🗄️ Databases & ORMs
+-SQL Server, SQLite
+
+📊 Data & AI
+-NumPy, Pandas, Matplotlib, Seaborn
+-Scikit-learn (Machine Learning Models, PCA, Model Evaluation)
+
+🧵 Concurrency & Async
+-threading, asyncio, aiohttp 
 
 ## Let's Connect
 - Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yiğit-can-aktürk-6b48262b6/)!
