@@ -22,7 +22,7 @@
 •**⚙️ Backend & Automation:** Selenium, BeautifulSoup  
 •**🗄️ Databases & ORMs:** SQL Server, SQLite  
 •**📱 Mobile Development:** Flutter  
-•**🌐 Web Development:** HTML, CSS, Bootstrap, JavaScript  
+•**🌐 Web Development:** HTML, CSS, Bootstrap, JavaScript, Streamlit, Flask
 
 
 ## Let's Connect
