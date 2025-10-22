@@ -18,7 +18,7 @@
 •**💻 Programming Languages:** Python, C#, C, Dart  
 •**🧠 ML & DL:** Scikit-Learn  
 •**📊 Data Cleaning & Visualization** NumPy, Pandas, Matplotlib, Seaborn  
-•**🧵 Concurrency & Async:** threading, asyncio, aiohttp  
+•**🔀 Concurrency & Async:** threading, asyncio, aiohttp  
 •**⚙️ Backend & Automation:** Selenium, BeautifulSoup  
 •**🗄️ Databases & ORMs:** SQL Server, SQLite  
 •**📱 Mobile Development:** Flutter  
