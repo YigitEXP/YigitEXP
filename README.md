@@ -15,15 +15,27 @@
 
 ## 🔧 Skills & Tools I Use
 
-•**💻 Programming Languages:** Python, C#, C, Dart  
-•**🧠 ML & DL:** Scikit-Learn  
-•**📊 Data Cleaning & Visualization** NumPy, Pandas, Matplotlib, Seaborn  
-•**🔀 Concurrency & Async:** threading, asyncio, aiohttp  
-•**⚙️ Backend & Automation:** Selenium, BeautifulSoup  
-•**🗄️ Databases & ORMs:** SQL Server, SQLite  
-•**📱 Mobile Development:** Flutter  
-•**🌐 Web Development:** HTML, CSS, Bootstrap, JavaScript, Streamlit, Flask
+* **💻 Programming Languages:**
+    * Python, C#, C, Dart
 
+* **🌐 Web Development:**
+    * **Frontend:** React, JavaScript, HTML5, CSS3, Bootstrap
+    * **Backend:** Flask
+    * *(Related Libraries: Streamlit)*
+
+* **📱 Mobile Development:**
+    * Flutter (Basic Knowledge)
+
+* **📊 Data Science & Machine Learning:**
+    * **Analysis & Modeling:** Scikit-Learn, Pandas, NumPy
+    * **Data Visualization:** Matplotlib, Seaborn
+
+* **🗄️ Databases:**
+    * SQL Server, SQLite
+
+* **🛠️ Other Tools & Libraries:**
+    * **Web Scraping & Automation:** Selenium, BeautifulSoup
+    * **Asynchronous Programming:** threading, asyncio, aiohttp
 
 ## Let's Connect
 - Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yiğit-can-aktürk-6b48262b6/)!
