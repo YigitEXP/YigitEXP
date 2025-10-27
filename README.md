@@ -19,8 +19,8 @@
     * Python, C#, C, Dart
 
 * **🌐 Web Development:**
-    * **Frontend:** React, JavaScript, HTML5, CSS3, Bootstrap
-    * **Backend:** Flask
+    * **Frontend:** React, JavaScript, HTML5, CSS3
+    * **Backend:** Flask (Basic Knowledge)
     * *(Related Libraries: Streamlit)*
 
 * **📱 Mobile Development:**
