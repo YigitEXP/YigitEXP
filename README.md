@@ -20,14 +20,13 @@
 
 * **🌐 Web Development:**
     * **Frontend:** React, JavaScript, HTML5, CSS3
-    * **Backend:** Flask (Basic Knowledge)
-    * *(Related Libraries: Streamlit)*
+    * **Backend:** FastAPI
 
 * **📱 Mobile Development:**
     * Flutter (Basic Knowledge)
 
 * **📊 Data Science & Machine Learning:**
-    * **Analysis & Modeling:** Scikit-Learn, Pandas, NumPy
+    * **Analysis & Modeling:** TensorFlow, Scikit-Learn, Pandas, NumPy
     * **Data Visualization:** Matplotlib, Seaborn
 
 * **🗄️ Databases:**
