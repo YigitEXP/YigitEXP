@@ -11,7 +11,7 @@
         - **International UAV Competition**  
         - **UGV** (Unmanned Ground Vehicle)  
         - **USV** (Unmanned Surface Vehicle)  
-  **Role**: I led UI development and worked on both frontend and parts of the backend. I integrated external tools into the system. I also contributed to mobile-side programming and supported cross-platform compatibility.
+  **Role**: I led UI development and worked on both frontend and parts of the backend. I integrated external tools into the system. I also contributed to mobile side programming and supported cross platform compatibility.
 
 ## 🔧 Skills & Tools I Use
 
