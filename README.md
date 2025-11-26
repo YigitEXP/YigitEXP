@@ -30,7 +30,7 @@
     * **Data Visualization:** Matplotlib, Seaborn
 
 * **🗄️ Databases:**
-    * SQL Server, SQLite
+    * SQL Server, SQLite, MongoDB
 
 * **🛠️ Other Tools & Libraries:**
     * **Web Scraping & Automation:** Selenium, BeautifulSoup
