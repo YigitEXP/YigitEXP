@@ -1,40 +1,49 @@
 # Hi everyone, I'm Yiğit! 👋
 
 ## About Me
-- 📚 I'm a Computer Engineering student with a strong focus on practical, hands-on learning.
-- 🤝 I enjoy exploring different domains of software development and constantly expanding my skill set.
-- ⚡ Special interest in Cloud Security, IoT
-- 🚀 **Teknofest 2025 Experience**  
-        Competed as part of a **5-person team** across multiple UAV/UGV categories:  
-        - **Combat UAV** (Unmanned Aerial Vehicle)  
-        - **Air Defense Systems**  
-        - **International UAV Competition**  
-        - **UGV** (Unmanned Ground Vehicle)  
-        - **USV** (Unmanned Surface Vehicle)  
-  **Role**: I led UI development and worked on both frontend and parts of the backend. I integrated external tools into the system. I also contributed to mobile side programming and supported cross platform compatibility.
+- 📚 I'm a Computer Engineering student focused on practical, hands-on learning.
+- 🤝 I enjoy exploring different domains of software development and expanding my skill set.
+- ⚡ **Key Interests:** Cloud Security, Network Security & IoT.
 
-## 🔧 Skills & Tools I Use
+## 🚀 Teknofest 2025 Experience
+Competed as part of a **5-person team** across multiple multidisciplinary categories, focusing on system integration and software development:
+> 🛸 **Combat UAV** (Unmanned Aerial Vehicle)
+> 🛡️ **Air Defense Systems**
+> 🌍 **International UAV Competition**
+> 🚜 **UGV** (Unmanned Ground Vehicle)
+> 🚤 **USV** (Unmanned Surface Vehicle)
 
-* **💻 Programming Languages:**
-    * Python, C#, C, Dart
+---
 
-* **🌐 Web Development:**
-    * **Frontend:** React, JavaScript, HTML5, CSS3
-    * **Backend:** FastAPI
+## 🔧 Skills & Tools
 
-* **📱 Mobile Development:**
-    * Flutter (Basic Knowledge)
+### 💻 Programming Languages
+- **Advanced:** Python, C#
+- **Fundamental:** C, JavaScript
 
-* **📊 Data Science & Machine Learning:**
-    * **Analysis & Modeling:** TensorFlow, Scikit-Learn, Pandas, NumPy
-    * **Data Visualization:** Matplotlib, Seaborn
+### 🌐 Web Development (MERN & FastAPI)
+- **Backend:** Node.js, Express.js, FastAPI
+- **Frontend:** React, HTML5, CSS3
 
-* **🗄️ Databases:**
-    * SQL Server, SQLite, MongoDB
+### 📊 Data Science & Machine Learning
+- **Analysis & Modeling:** Scikit-Learn, Pandas, NumPy
+- **Visualization:** Matplotlib, Seaborn
 
-* **🛠️ Other Tools & Libraries:**
-    * **Web Scraping & Automation:** Selenium, BeautifulSoup
-    * **Asynchronous Programming:** threading, asyncio, aiohttp
+### 🗄️ Databases
+- SQL Server, SQLite, MongoDB
+
+### 🛠️ Libraries & Utilities
+- **Automation:** Selenium, BeautifulSoup
+- **Concurrency:** threading, asyncio, aiohttp
+
+---
+
+## 🔭 Currently Exploring & Interested In
+Here are the technologies and fields I am currently learning or planning to integrate into my stack:
+- **Cybersecurity:** Network Security, Penetration Testing Basics, Cloud Security
+- **DevOps:** Docker, Kubernetes, AWS Services
+- **IoT Security:** Securing embedded devices and communication protocols
+- **Embedded:** RTOS, MLOps
 
 ## Let's Connect
 - Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yiğit-can-aktürk-6b48262b6/)!
