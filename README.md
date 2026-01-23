@@ -42,8 +42,7 @@ Competed as part of a **5-person team** across multiple multidisciplinary catego
 Here are the technologies and fields I am currently learning or planning to integrate into my stack:
 - **Cybersecurity:** Network Security, Penetration Testing Basics, Cloud Security
 - **DevOps:** Docker, Kubernetes, AWS Services
-- **IoT Security:** Securing embedded devices and communication protocols
-- **Embedded:** RTOS, MLOps
+- **Full Stack:** Crafting high-performance web solutions with the FARM Stack. Committed to engineering excellence through TDD, writing Clean Code, and implementing Security-by-Design by mitigating OWASP Top 10 vulnerabilities.
 
 ## Let's Connect
 - Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yiğit-can-aktürk-6b48262b6/)!
