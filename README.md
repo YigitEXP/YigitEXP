@@ -3,7 +3,7 @@
 ## About Me
 - 📚 I'm a Computer Engineering student focused on practical, hands-on learning.
 - 🤝 I enjoy exploring different domains of software development and expanding my skill set.
-- ⚡ **Key Interests:** Cloud Security, Network Security & IoT.
+- ⚡ **Key Interests:** Bulletproof Software
 
 ## 🚀 Teknofest 2025 Experience
 Competed as part of a **5-person team** across multiple multidisciplinary categories, focusing on system integration and software development:
