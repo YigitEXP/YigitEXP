@@ -10,7 +10,7 @@ My engineering philosophy revolves around **TDD (Test-Driven Development)**, **C
 
 ### 🚀 Engineering Highlights
 
-* **Teknofest 2025 Finalist:** Served as a Full Stack Developer in a 5-person team, integrating complex backend systems for **UAV/UGV** platforms. Managed high-pressure deployment cycles and system integration.
+* **Teknofest 2025:** Served as a Full Stack Developer in a 5-person team, integrating complex backend systems for **UAV/UGV** platforms. Managed high-pressure deployment cycles and system integration.
 * **FARM Stack Enthusiast:** leveraging **F**astAPI, **R**eact, and **M**ongoDB to build high-performance, asynchronous web applications.
 * **Security-Minded:** Actively implementing OWASP standards to mitigate vulnerabilities before they happen.
 
