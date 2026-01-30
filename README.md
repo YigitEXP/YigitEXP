@@ -28,7 +28,7 @@ I focus on tools that allow for scalability, reliability, and architectural exce
 | **Data & AI** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Scikit_Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
 | **Automation & Utils** | ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat&logo=python&logoColor=white) ![Asyncio](https://img.shields.io/badge/Asyncio-red?style=flat&logo=python&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) |
-| **Testing & Quality** | ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white) ![Unittest](https://img.shields.io/badge/Unittest-262740?style=flat&logo=python&logoColor=white) |
+| **Testing & Quality** | ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white) ![unittest](https://img.shields.io/badge/unittest-262740?style=flat&logo=python&logoColor=white) |
 
 ---
 
