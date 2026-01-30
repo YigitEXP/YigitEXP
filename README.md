@@ -48,7 +48,6 @@ I am currently transitioning from "building apps" to **"designing systems."**
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YigitEXP&theme=tokyonight" alt="Top Languages" />
   
   <br/>
-  
   <img src="https://github-profile-trophies.vercel.app/?username=YigitEXP&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
