@@ -55,4 +55,4 @@ I am currently transitioning from "building apps" to **"designing systems."**
 
 I'm always open to discussing backend architecture, clean code, or potential collaborations.
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](LINKEDIN_PROFIL_LINKIN_BURAYA)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yiğit-can-aktürk-6b48262b6/)
