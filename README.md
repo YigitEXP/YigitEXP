@@ -45,8 +45,11 @@ I am currently transitioning from "building apps" to **"designing systems."**
 ### 📊 Github Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YigitEXP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YigitEXP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YigitEXP&theme=tokyonight" alt="Top Languages" />
+  
+  <br/>
+  
+  <img src="https://github-profile-trophies.vercel.app/?username=YigitEXP&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ---
