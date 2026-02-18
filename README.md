@@ -23,22 +23,21 @@ I focus on tools that allow for scalability, reliability, and architectural exce
 | Domain | Technologies |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Backend Frameworks** | ![Django](https://img.shields.io/badge/Django-005571?style=flat&logo=django) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) |
+| **Backend Frameworks** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) |
 | **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
 | **Data & AI** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-7767A5?style=flat&logo=python&logoColor=white) ![Scikit_Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
-| **Automation & Utils** | ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat&logo=python&logoColor=white) ![Asyncio](https://img.shields.io/badge/Asyncio-red?style=flat&logo=python&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) |
 | **Testing & Quality** | ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white) ![unittest](https://img.shields.io/badge/unittest-262740?style=flat&logo=python&logoColor=white) |
 
 ---
+### 🌱 Current Learning Path
+I am currently in the transition from "building apps" to "designing systems."
 
-### 🌱 Current Focus & Learning Path
+**Test-Driven Development (TDD)** : Deep diving into Python's testing ecosystem to ensure high code coverage and reliability.
 
-I am currently transitioning from "building apps" to **"designing systems."**
+**System Architecture**: Learning the trade-offs of Microservices vs. Monoliths, Caching strategies, and Load Balancing.
 
-* **System Design:** Deep diving into Load Balancing, Caching Strategies, and Microservices patterns.
-* **Advanced Backend:** Mastering Python's `asyncio` for high-concurrency tasks.
-* **Production Readiness:** Learning how to containerize and orchestrate applications properly using Docker.
+**Security**: Integrating security as a first-class citizen in the development lifecycle (DevSecOps mindset).
 
 ---
 
