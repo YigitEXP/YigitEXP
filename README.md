@@ -1,18 +1,22 @@
-# Hi there, I'm Yiğit! 👋
+# Hey, I'm Yiğit! 👋
 
-### Aspiring Software Architect | Building Secure & Scalable Systems
+# Hi there, I'm Yiğit 👋
 
-I am a Computer Engineering student engaged in the art of **system design** and **backend reliability**. Unlike the typical "make it work" approach, I obsess over "make it robust, secure, and maintainable."
+I’m a Computer Engineering student who enjoys building backend systems that are reliable, testable, and secure.
 
-My engineering philosophy revolves around **TDD (Test-Driven Development)**, **Clean Architecture**, and **Security-First** principles. I don't just write code; I engineer solutions that survive production.
+These days I'm less interested in “just making things work” and more interested in understanding how systems behave in production — performance, structure, and failure cases.
+
+I like turning ideas into working services and learning what breaks along the way.
 
 ---
 
-### 🚀 Engineering Highlights
+## 🧭 What I Focus On
 
-* **Teknofest 2025:** Served as a Full Stack Developer in a 5-person team, integrating complex backend systems for **UAV/UGV** platforms. Managed high-pressure deployment cycles and system integration.
-* **FARM Stack Enthusiast:** leveraging **F**astAPI, **R**eact, and **M**ongoDB to build high-performance, asynchronous web applications.
-* **Security-Minded:** Actively implementing OWASP standards to mitigate vulnerabilities before they happen.
+- Backend development with Python  
+- Designing REST APIs and modular services  
+- Writing testable and maintainable code  
+- Learning how scalable systems are designed  
+- Building with a security-aware mindset  
 
 ---
 
@@ -30,14 +34,20 @@ I focus on tools that allow for scalability, reliability, and architectural exce
 | **Testing & Quality** | ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white) ![unittest](https://img.shields.io/badge/unittest-262740?style=flat&logo=python&logoColor=white) |
 
 ---
-### 🌱 Current Learning Path
-I am currently in the transition from "building apps" to "designing systems."
+## 🌱 Currently Learning
 
-**Test-Driven Development (TDD)** : Deep diving into Python's testing ecosystem to ensure high code coverage and reliability.
+Right now I'm exploring:
 
-**System Architecture**: Learning the trade-offs of Microservices vs. Monoliths, Caching strategies, and Load Balancing.
+- System design fundamentals  
+- Container-based workflows  
+- DevSecOps mindset  
+- How real systems scale and fail  
 
-**Security**: Integrating security as a first-class citizen in the development lifecycle (DevSecOps mindset).
+---
+
+## 🎯 Goal
+
+To grow into a backend engineer who builds secure and scalable systems — and eventually move toward DevSecOps and system architecture.
 
 ---
 
