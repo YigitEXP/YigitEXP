@@ -1,7 +1,5 @@
 # Hey, I'm Yiğit! 👋
 
-# Hi there, I'm Yiğit 👋
-
 I’m a Computer Engineering student who enjoys building backend systems that are reliable, testable, and secure.
 
 These days I'm less interested in “just making things work” and more interested in understanding how systems behave in production — performance, structure, and failure cases.
