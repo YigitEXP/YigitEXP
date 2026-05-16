@@ -1,14 +1,16 @@
 # Yiğit Can Aktürk
 
-I am a 2nd year Computer Engineering student at Süleyman Demirel University. My focus is on building **"Bulletproof"** systems. I want to understand how software and hardware work together to create secure and stable environments.
+Hi! I am a 2nd year Computer Engineering student at Süleyman Demirel University. I love building **"Bulletproof"** systems. Right now, I am exploring how high level web apps and low level silicon work together.
+
+My coding journey started with full stack web development. But recently, my whole focus changed to **Edge AI** in healthcare. I want to process complex human biosignals (like EEG) directly on the hardware with zero latency. 
 
 ### 🛠️ My Engineering Path
-I am building myself as a **T shaped** engineer. I spend most of my time on **System Security and FPGA**, but I also handle the full deployment and testing process.
+I am building myself as an end to end architect. I don't just write code; I want to understand the whole system from logic gates to web dashboards.
 
-* **Backend & Systems:** I build services with the **FARM Stack** (FastAPI, **React**, MongoDB) and use **Redis** for high performance data caching.
-* **Infrastructure & Networking:** I use **Nginx** as a reverse proxy to manage traffic. I work in **Linux** environments and use **Docker** for containerization.
-* **Security & Reliability:** I use **OWASP ZAP** for security testing and **Grafana k6** for load testing. My goal is to make sure the system is stable under pressure.
-* **Hardware & FPGA:** This is my real passion. I am learning **Verilog** and digital design because I want to work on hardware acceleration and custom logic.
+* **Hardware & Edge AI:** This is my main passion right now. I am learning **Verilog** and FPGA architecture to filter biological data directly on the chip.
+* **Backend & Systems:** I use the **FARM Stack** (FastAPI, React, MongoDB) and **Redis** to connect hardware to the web.
+* **Infrastructure & Ops:** I work with **Linux**, **Docker**, and **Nginx** to deploy my projects safely.
+* **Security & Reliability:** A system must be secure. I apply a "Security by Design" rule using **OWASP ZAP** and test my systems under heavy load with **Grafana k6**.
 
 ---
 
@@ -26,14 +28,16 @@ I am building myself as a **T shaped** engineer. I spend most of my time on **Sy
 ---
 
 ## 🧭 Principles
-* **Resilience:** I always ask "why does this system fail?" to make it stronger.
-* **Architecture:** I aim for clean code and scalable system design.
-* **Curiosity:** I try to find the "how" and "why" behind technology, from the server to the silicon.
+* **Resilience:** I always ask "why does this system fail?" to find bugs before they happen.
+* **Architecture:** I aim for clean code and production ready system design.
+* **Curiosity:** I like to follow the data from the raw sensor input all the way to the frontend UI.
 
 ---
 
 ## 🎯 Current Mission
-Right now, Im studying **System Design** and waiting for my hardware internship. I want to see how digital logic and performance testing work in the industry.
+Currently, I am working on Digital Signal Processing (DSP) with Verilog to clean EEG data. I am also looking for a hardware internship to gain real industry experience. 
+
+Feel free to message me about neuro hardware, AI architectures, or just system design in general!
 
 ---
 
