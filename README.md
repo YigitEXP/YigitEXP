@@ -1,41 +1,45 @@
-# Yiğit Can Aktürk
+# 🛠️ Yiğit Can Aktürk | DevLog
 
-Hi! I am a Computer Engineering student who believes that **"a software which doesn't touch the hardware or understand the sensor data is always incomplete."** I bridge the gap between high-level web software and low-level silicon architectures.
-
-I build myself as a **T-shaped Full Stack Developer** with a strict **"Security by Design"** philosophy. For me, the real test of engineering isn't just making code work on a screen—it's how the system survives under heavy load and critical failures.
-
-### 🧠 My Core Focus: Edge AI & Neuro-Hardware
-My journey started with full-stack web development, but my focus shifted to where the real challenge lies: processing complex human biosignals (EEG, ECG) directly on hardware. My current mission is to build zero-latency architectures that filter and process biological data on-chip without waiting for the cloud.
+Hi! Welcome to my space. Let's keep it real: I'm here to bridge the gap between high level backend systems and low level silicon architectures. I just write about my daily engineering battles and what I build along the way.
 
 ---
 
-### 🛠️ Engineering Path & Philosophy
+### 🪵 CURRENT STATUS: DevLog #03 — Moving to Deep Learning
+I started out with full stack web development, but I quickly realized the real fun happens when software meets raw hardware. Right now, I am deep diving into **Neural Networks on FPGA**. To build intelligent hardware structures, I first spent a lot of time dirtying my hands with the data preparation phase. 
 
-*   **Low-Level & Edge AI:** Designing digital logic and hardware acceleration structures using **Verilog** and **FPGA** to process real-time signal data at the speed of the nervous system.
-*   **Secure Backend Systems:** Leveraging the **FARM Stack** and **Redis** to bridge the physical hardware with secure, high-performance web ecosystems.
-*   **Infrastructure & DevSecOps:** Automating and isolating systems using **Docker**, **Nginx**, and secure shell scripting. I don't just deploy; I audit using **OWASP ZAP** and stress-test boundaries with **Grafana k6**.
-*   **Beyond the Code:** I don't just stay behind the screen. As a co-founder of student tech organizations, I actively practice field project management and leadership.
+I’ve been heavily using **NumPy**, **Pandas**, **Matplotlib**, and **Seaborn** to break down and analyze data, and I'm quite comfortable using **Scikit-Learn** for standard machine learning pipelines. 
+
+**What am I doing right now?** I am officially moving into Deep Learning (DL), specifically focusing on 1D-CNN architectures. The goal is to filter and process complex human biosignals (EEG, ECG) directly on chip, achieving zero latency acceleration without relying on the cloud.
 
 ---
 
-## 💻 Tech Stack & Ecosystem
+### 🧠 Core Philosophy & My Path
+
+*   **T-Shaped Full Stack:** I build backend and frontend setups with a strict **'Security by Design'** approach. For me, engineering isn't just about making code work on a screen—it's about how the system survives under heavy stress and unexpected crashes.
+*   **Low Level & Edge AI:** Designing digital logic and hardware acceleration structures using **Verilog** to process real time signal data at the speed of the nervous system.
+*   **DevSecOps & Stress Testing:** I don't just deploy apps; I isolate them using **Docker** and **Nginx**, audit them via **OWASP ZAP**, and actively push boundaries with **Grafana k6** to see where the architecture breaks.
+*   **Beyond the Screen:** Engineering isn't just about code. As a co-founder of student tech organizations, I actively handle project management, community building, and leadership in the field.
+
+---
+
+## 💻 Tech Stack & Tools
 
 | Domain | Core Technologies & Tools |
 | :--- | :--- |
-| **Low-Level & Hardware** | **Verilog**, VHDL, FPGA Architecture, Digital Circuit Design |
+| **Low Level** | **Verilog**, VHDL, FPGA Architecture, Digital Circuit Design |
+| **Data Science & ML / DL** | **NumPy**, **Pandas**, **Matplotlib**, **Seaborn**, **Scikit-Learn**, Deep Learning *(In Progress)* |
 | **Backend & Systems** | **Python (FastAPI)**, Node.js, Express.js, **Redis** (Caching & Rate Limiting) |
-| **Infrastructure & DevSecOps** | **Docker**, **Nginx** (Reverse Proxy), **OWASP ZAP** (DAST), **Grafana k6** |
-| **Data & Persistence** | **MongoDB**, **Redis**, SQL Server, SQLite, NumPy/Pandas |
-| **Testing & QA** | **Pytest**, unittest, TDD (Test-Driven Development) |
+| **Infrastructure & Security** | **Docker**, **Nginx**, **OWASP ZAP**, **Grafana k6** |
+| **Data & Persistence** | **MongoDB**, **Redis**, SQL Server, SQLite |
 | **Frontend** | **React.js**, JavaScript, HTML5/CSS3 |
 
 ---
 
-## 🎯 Current Mission & Collaboration
-*   Currently deep-diving into 1D-CNN architectures and digital signal processing (DSP) to build real-time anomaly detection pipelines for biomedical data.
-*   Looking for hardware/software engineering internships where I can put my hardware-software co-design skills into production.
+## 🎯 Current Focus & Internships
+*   Currently building real time anomaly detection pipelines for biomedical data utilizing 1D-CNNs and digital signal processing (DSP).
+*   Looking for software/hardware engineering internships where I can put my hardware-software co-design and ML prototyping skills into production.
 
-If you want to talk about Security by Design, neuro-hardware, Edge AI architectures, or just exchange engineering ideas; feel free to drop a message!
+"If you want to talk about Security by Design, neuro hardware, Edge AI architectures, data analysis, or just exchange engineering ideas; feel free to drop a message! Let's build something that actually touches the silicon."
 
 ---
 
