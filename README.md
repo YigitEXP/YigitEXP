@@ -39,7 +39,7 @@ I’ve been heavily using **NumPy**, **Pandas**, **Matplotlib**, and **Seaborn**
 *   Currently building real time anomaly detection pipelines for biomedical data utilizing 1D-CNNs and digital signal processing (DSP).
 *   Looking for software/hardware engineering internships where I can put my hardware-software co-design and ML prototyping skills into production.
 
-"If you want to talk about Security by Design, neuro hardware, Edge AI architectures, data analysis, or just exchange engineering ideas; feel free to drop a message! Let's build something that actually touches the silicon."
+If you want to talk about Security by Design, neuro hardware, Edge AI architectures, data analysis, or just exchange engineering ideas; feel free to drop a message! Let's build something that actually touches the silicon.
 
 ---
 
