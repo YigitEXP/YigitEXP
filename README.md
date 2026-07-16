@@ -45,3 +45,8 @@ I’ve been heavily using **NumPy**, **Pandas**, **Matplotlib**, and **Seaborn**
 
 ### 🤝 Connect with me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yi%C4%9Fit-can-akt%C3%BCrk-6b48262b6/)
+
+---
+<p align="center">
+  <img src="https://komarev.com" alt="YigitEXP Profile Views" />
+</p>
