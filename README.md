@@ -54,6 +54,4 @@ If you want to talk about *Security by Design*, neuro-hardware, Edge AI architec
 
 <br />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YigitEXP&color=0077b5&style=flat-square&label=Profile+Views" alt="YigitEXP Profile Views" />
-</p>
+<img src="https://api.visitorbadge.io/api/visitors?path=YigitEXP&label=PROFILE%20VIEWS&labelColor=%23555555&countColor=%230077b5&style=flat" alt="Profile Views" />
