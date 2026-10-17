@@ -27,10 +27,10 @@ Hi! Welcome to my space. Let's keep it real: I'm here to bridge the gap between 
 
 | Domain | Core Technologies & Tools |
 | :--- | :--- |
-| **Low Level & Hardware** | `Verilog` `VHDL` `FPGA Architecture` `Digital Circuit Design` `Vivado` |
-| **Data Science & ML / DL** | `NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-Learn` `1D-CNN` |
+| **Low Level & Hardware** | `SystemVerilog` `Verilog` `VHDL` `FPGA Architecture` `Digital Circuit Design` `Vivado` |
+| **Data Science & ML / DL** | `NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-Learn` |
 | **Backend & Systems** | `Python (FastAPI)` `Node.js` `Express.js` `Redis (Caching & Rate Limiting)` |
-| **Infrastructure & Security** | `Docker` `Nginx` `OWASP ZAP` `Grafana k6` `Linux` |
+| **Infrastructure & Security** | `Docker` `Nginx` `OWASP ZAP` `Grafana k6` `Bash` |
 | **Data & Persistence** | `MongoDB` `Redis` `SQL Server` `SQLite` |
 | **Frontend** | `React.js` `JavaScript` `Tailwind CSS` `HTML5/CSS3` |
 
